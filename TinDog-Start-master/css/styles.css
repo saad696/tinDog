@@ -1,0 +1,175 @@
+#body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.h1-text, .h2-text, .h3-text{
+	 font-family: "Montserrat";
+    font-weight: bold;
+    line-height: 1.5;
+}
+.h1-text, .h2-text{
+    font-size: 3rem;
+}
+
+.h3-text {
+    font-size: 1.2rem;
+}
+
+.p-text {
+    color: #8f8f8f;
+}
+
+.colored-section{
+	 background-color: #ff4c68;
+    color: #fff; 
+}
+
+.white-section{
+	background-color: #fff;
+
+}
+/*title part*/
+#title {
+    text-align: left;
+}
+
+#container {
+    padding: 3% 15% 8%;
+}
+
+
+#navbar {
+    padding: 0 0 4.5rem;
+}
+
+a.navbar-brand {
+	font-size: 2.5rem;
+    font-family: 'ubuntu';
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0px 20px;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+    font-family: "Montserrat-Light";
+}
+
+/*download buttons*/
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/*title image*/
+.title-img {
+    width: 55%;
+    margin: 7% 15%;
+    transform: rotate(30deg);
+    position: absolute;
+   
+}
+
+/*middle icons*/
+.mid-icons {
+    font-size: 2rem;
+    color: #ef8172;
+    transition: 0.5s;
+    margin-bottom: 1rem;
+
+}
+
+/*features part*/
+#features{
+	position: relative;
+
+}
+div.container{
+	padding: 0 10%;
+}
+.mid-icons:hover {
+    color: #ff4c68;
+}
+
+.mid-allign {
+    margin: 15% 0;
+}
+
+/*testimonials part*/
+#testimonials {
+    background-color: #ef8172;
+}
+
+
+.testimonials-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/*press part*/
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/*pricing*/
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-card {
+    padding: 3% 3%;
+}
+
+.btn1, .btn2{
+	margin-top: 40px;
+}
+
+@media (max-width: 1032px){
+	#title{
+		text-align: center;
+	}
+	.title-img {
+		width: 50%;
+		position: static;
+		transform:rotate(0);
+	}
+
+}
+
+/*cta part*/
+.cta-container{
+	padding: 10%;
+}
+
+.cta-h2{
+	padding: 0 15%;
+}
+
+
+/*footer*/
+
+.footer-container{
+	padding: 10%;
+}
+
+.footer-icon{
+	padding: 5% 2%;
+}
+
+.footer-icon:hover{
+	 transform: scale(1.5);
+}

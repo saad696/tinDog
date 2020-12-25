@@ -1,0 +1,7 @@
+[1027/062316.587:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1027/062848.259:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\james martin.jamesmartin-PC\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\6912baf6-9f68-426d-b0e6-d3886df83561: The system cannot find the path specified. (0x3)
+[1027/211228.537:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1027/215509.367:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\james martin.jamesmartin-PC\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c7608fde-4905-482b-ae2e-742887a47f64: The system cannot find the path specified. (0x3)
+[1028/231149.278:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1029/204556.093:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1031/211959.464:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
